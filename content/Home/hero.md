@@ -6,7 +6,7 @@ title: Logistics
 
 ---
 <table style="table-layout:fixed">
-<col style="width:40%" span="4" />
+<col style="width:35%"/>
 <thead>
 <th>Instructor</th>
 <th>Email</th>
@@ -24,7 +24,7 @@ title: Logistics
 </table>
 
 <table style="table-layout:fixed">
-<col style="width:40%" span="4" />
+<col style="width:35%" span="4" />
 <thead>
 <th>Teaching Assistant</th>
 <th>Email</th>
