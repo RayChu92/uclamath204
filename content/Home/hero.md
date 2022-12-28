@@ -5,7 +5,7 @@ weight: 3
 title: Logistics
 
 ---
-Instructor: [Raymond Chu](https://raymondchu.netlify.app)
+### Instructor: [Raymond Chu](https://raymondchu.netlify.app)
 <table style="table-layout:fixed">
 <col style="width:40%" span="3" />
 <thead>
@@ -22,7 +22,7 @@ Instructor: [Raymond Chu](https://raymondchu.netlify.app)
 </tbody>
 </table>
 
-Teaching Assistant: [Thierry Laurens](https://www.math.ucla.edu/~laurenst/index.html)
+### Teaching Assistant: [Thierry Laurens](https://www.math.ucla.edu/~laurenst/index.html)
 <table style="table-layout:fixed">
 <col style="width:40%" span="3" />
 <thead>
