@@ -1,9 +1,9 @@
 ---
-type: book
-headless: true
-weight: 3
-
+title: Syllabus
+linktitle: Syllabus
+weight: 1
 ---
+
 ## Overview
 
 The goal of this course is to prepare students for the Basic Qualification Exam. There will be two lectures a week. Lectures will be focused on both the theory and problem solving techniques for problems that frequently show up on the analysis and linear algebra portion of the basic. There will be a heavier emphasis on the analysis portion of the exam. 
