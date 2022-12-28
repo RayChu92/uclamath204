@@ -13,21 +13,31 @@ The Teaching Assistant is [Thierry Laurens](https://www.math.ucla.edu/~laurenst/
 
 <table>
 <thead>
-<th></th>
-<th> </th>
+<th>Instructor</th>
 <th>Email</th>
 <th>Office Location</th>
 <th>Office Hour</th>
 </thead>
 <tbody>
 <tr>
-<td>Instructor: [Raymond Chu](https://raymondchu.netlify.app)</td>
+<td>[Raymond Chu](https://raymondchu.netlify.app)</td>
 <td>rchu[at]math[dot]ucla[edu]</td>
 <td>MS 2943</td>
 <td>TBH</td>
 </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<th>Teaching Assistant</th>
+<th>Email</th>
+<th>Office Location</th>
+<th>Office Hour</th>
+</thead>
+<tbody>
 <tr>
-<td>Teaching Assistant: [Thierry Laurens](https://www.math.ucla.edu/~laurenst/index.html)</td>
+<td>[Thierry Laurens](https://www.math.ucla.edu/~laurenst/index.html)</td>
 <td>laurenst[at]math[dot]ucla[dot]edu</td>
 <td>MS 5351-2</td>
 <td>TBH</td>
