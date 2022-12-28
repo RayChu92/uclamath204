@@ -1,6 +1,5 @@
 ---
-type: book # Do not modify.
-toc: false
+type: "widget_page"
 ---
 
 ## Overview
