@@ -6,7 +6,7 @@ type: "widget_page"
 
 The goal of this course is to prepare you for the Basic Qualification Exam. There will be two lectures a week. Lectures will be focused on both the theory and problem solving techniques for problems that frequently show up on the analysis and linear algebra portion of the basic. There will be a heavier emphasis on the analysis portion of the exam. 
 
-Starting in week 2, you will have a **weekly** **quiz** during the first 10 minutes of the course on Mondays. 
+Starting in week 2, you will have a **weekly** **quiz** during the first 10 minutes of the course on Mondays. If you perform poorly on the quiz, then you need to have a one on one meeting with me.
 
 You will also be randomly assigned into homework groups of 3 or 4 biweekly. There will be weekly homework due on the following Wednesday at the end of class. Each group submits **one** homework assignment. I will send an email about the group pairings. 
 
@@ -18,7 +18,7 @@ In addition, starting in week 2 every student will meet Thierry two times throug
 
 ## Weekly Quizzes
 
-Starting in week 2, you will have a quiz on **Wednesday** except for during the midterm week. This quiz will be in the first 10 minutes of the lecture and will consist of a random problem chosen from the previous homework. In general, there will be no makes up for the quizzes. However, exceptions can be made based on the circumstances. And the two lowest quiz score will be dropped.
+Starting in week 2, you will have a quiz on **Wednesday** except for during the midterm week. This quiz will be in the first 10 minutes of the lecture and will consist of a random problem chosen from the previous homework. In general, there will be no makes up for the quizzes. However, exceptions can be made based on the circumstances. And the two lowest quiz score will be dropped. If you do poorly on the quiz, then we need to have a one on one meeting.
 
 ## Group Homework
 
