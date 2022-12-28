@@ -20,7 +20,7 @@ weight: 3
   </tr>
 <tr>
     <th>Office Hour</th>
-    <td>TBH</td>
+    <td>TBD</td>
 </tr>
 </table>
 
@@ -41,6 +41,6 @@ weight: 3
   </tr>
 <tr>
     <th>Office Hour</th>
-    <td>TBH</td>
+    <td>TBD</td>
 </tr>
 </table>
