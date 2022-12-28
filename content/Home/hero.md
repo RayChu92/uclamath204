@@ -2,30 +2,10 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs Template
-hero_media: book.svg
-design:
-  background:
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
-    text_color_light: true
-cta:
-  url: docs/
-  label: Get Started
-  icon_pack: fas
-  icon: download
-cta_alt:
-  url: docs/
-  label: View Documentation
-cta_note:
-  label: >-
-    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-themes">
-      Project version will appear here<!-- Automatically filled based on data-repo value -->
-    </span>
+title: Logistics
+
 ---
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
+Raymond Chu will be the instructor for Math 204. My office hours will be at [To Be Determined] in MS 2943. I can be reached via email at rchu[at]math[dot]ucla[edu].
 
-Write something interesting about your project here.
-
-<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/hugo-documentation-theme" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Hugo Documentation Theme</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+The Teaching Assistant is Thierry Laurens. His office hours will be at [To Be Determined] in MS 5351-2. His email address is laurenst[at]math[dot]ucla[dot]edu.
