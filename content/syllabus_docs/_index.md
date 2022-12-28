@@ -8,7 +8,7 @@ The goal of this course is to prepare you for the Basic Qualification Exam. Ther
 
 Starting in week 2, you will have a **weekly** **quiz** during the first 10 minutes of the course on Mondays. 
 
-You will also be randomly assigned into homework groups of 3 or 4 biweekly. There will be weekly homework due on the following Wednesday at the end of class. Each group submits **one** homework assignment. I will send an email about the grou pairings. 
+You will also be randomly assigned into homework groups of 3 or 4 biweekly. There will be weekly homework due on the following Wednesday at the end of class. Each group submits **one** homework assignment. I will send an email about the group pairings. 
 
 There will also be **one** **four** **hour** proctored **exam** during the quarter during week 5. This is done to replicate the qualification exam test setting. 
 
