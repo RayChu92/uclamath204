@@ -1,5 +1,5 @@
 ---
-widget: hero
+type: book
 headless: true
 weight: 3
 
