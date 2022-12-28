@@ -7,7 +7,7 @@ title: Logistics
 ---
 Instructor: [Raymond Chu](https://raymondchu.netlify.app)
 <table style="table-layout:fixed">
-<col style="width:35%" span="3" />
+<col style="width:40%" span="3" />
 <thead>
 <th>Email</th>
 <th>Office Location</th>
@@ -24,7 +24,7 @@ Instructor: [Raymond Chu](https://raymondchu.netlify.app)
 
 Teaching Assistant: [Thierry Laurens](https://www.math.ucla.edu/~laurenst/index.html)
 <table style="table-layout:fixed">
-<col style="width:35%" span="3" />
+<col style="width:40%" span="3" />
 <thead>
 <th>Email</th>
 <th>Office Location</th>
