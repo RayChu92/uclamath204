@@ -27,7 +27,7 @@ title: Logistics
 
 
 <table>
-<col style="width:15%" span="2" />
+<col style="width:18%" span="2" />
   <tr>
     <th>Teaching Assistant</th>
     <td><a href="https://www.math.ucla.edu/~laurenst/index.html">Thierry Laurens</a></td>
