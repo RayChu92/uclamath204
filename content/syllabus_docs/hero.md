@@ -1,6 +1,5 @@
 ---
 title: Syllabus
-linktitle: Syllabus
 weight: 1
 ---
 
