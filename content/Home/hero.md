@@ -2,7 +2,6 @@
 widget: hero
 headless: true
 weight: 3
-title: Logistics
 
 ---
 <table>
