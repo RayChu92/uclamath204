@@ -1,9 +1,24 @@
 ---
-title: Docs
-type: book # Do not modify.
-toc: false
+type: "widget_page"
 ---
 
-Welcome to the _Project Docs_ template!
+I will post weekly lecture notes of the class material here.
 
-{{< cta cta_text="👉 Get Started with Chapter 1" cta_link="chapter1" >}}
+**Week 1** [Summation](https://drive.google.com/file/d/1APOw80xUXu6DEfJA5L_jb4w0ONZp54eA/view?usp=share_link)
+**Week 2**
+
+**Week 3**
+
+**Week 4**
+
+**Week 5**
+
+**Week 6**
+
+**Week 7**
+
+**Week 8**
+
+**Week 9**
+
+**Week 10**

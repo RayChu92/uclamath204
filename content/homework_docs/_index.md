@@ -1,9 +1,25 @@
 ---
-title: Docs
-type: book # Do not modify.
-toc: false
+type: "widget_page"
 ---
 
-Welcome to the _Project Docs_ template!
+I will post weekly homework here.
 
-{{< cta cta_text="👉 Get Started with Chapter 1" cta_link="chapter1" >}}
+**Week 1** 
+
+**Week 2**
+
+**Week 3**
+
+**Week 4**
+
+**Week 5**
+
+**Week 6**
+
+**Week 7**
+
+**Week 8**
+
+**Week 9**
+
+**Week 10**
