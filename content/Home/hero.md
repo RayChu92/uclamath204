@@ -41,6 +41,6 @@ weight: 3
   </tr>
 <tr>
     <th>Office Hour</th>
-    <td>TBD</td>
+    <td>Tuesday 12:30-1:30</td>
 </tr>
 </table>
