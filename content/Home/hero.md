@@ -37,7 +37,7 @@ weight: 3
   </tr>
   <tr>
     <th>Office Location</th>
-    <td>MS 5351-2</td>
+    <td>MS 6118</td>
   </tr>
 <tr>
     <th>Office Hour</th>
