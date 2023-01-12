@@ -20,7 +20,7 @@ weight: 3
   </tr>
 <tr>
     <th>Office Hour</th>
-    <td>Tuesday 10-11 and 3:30-4:30</td>
+    <td>Tuesday 10-11, 3:30-4:30</td>
 </tr>
 </table>
 
