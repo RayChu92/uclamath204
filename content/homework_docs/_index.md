@@ -12,4 +12,6 @@ I will post weekly homework here.
 
 **[Homework 2](https://drive.google.com/file/d/1aMHN3ZuaSYGiC-jpTHH4EpL76b1cKo9T/view?usp=share_link) (Due 1/25)**
 
+**[Homework 3](https://drive.google.com/file/d/1W5H9ZD-8_W9URkglLBh3obyNw-29-mSg/view?usp=share_link) (Due 02/01)**
+
 

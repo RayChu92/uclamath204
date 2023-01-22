@@ -8,7 +8,7 @@ I will post weekly lecture notes of the class material here.
 
 **Week 2** [Completeness](https://drive.google.com/file/d/1BpkL0dXREW2XQFWLBxurFRGQB66wYMWL/view?usp=sharing)
 
-**Week 3**
+**Week 3** [Connectedness and Compactness](https://drive.google.com/file/d/1nIb3pUrOZ-xm9tqK67J0pRtEFUlOgAHd/view?usp=share_link)
 
 **Week 4**
 
