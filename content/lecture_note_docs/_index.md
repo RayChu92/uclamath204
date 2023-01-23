@@ -8,7 +8,7 @@ I will post weekly lecture notes of the class material here.
 
 **Week 2** [Completeness](https://drive.google.com/file/d/1BpkL0dXREW2XQFWLBxurFRGQB66wYMWL/view?usp=sharing)
 
-**Week 3** 
+**Week 3** [Connected](https://drive.google.com/file/d/17hwPyZvA8rlW5MRwn8cR_ET-JHPd9Re-/view?usp=sharing)
 
 **Week 4**
 
