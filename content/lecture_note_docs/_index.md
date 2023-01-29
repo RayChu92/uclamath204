@@ -10,7 +10,7 @@ I will post weekly lecture notes of the class material here.
 
 **Week 3** [Connected](https://drive.google.com/file/d/17hwPyZvA8rlW5MRwn8cR_ET-JHPd9Re-/view?usp=sharing)
 
-**Week 4**
+**Week 4** [Fixed Points](https://drive.google.com/file/d/1_guZA2EMwUjgu4U2sONEpj2CU3_ELXdz/view?usp=sharing)
 
 **Week 5**
 
