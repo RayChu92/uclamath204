@@ -6,6 +6,8 @@ I will post weekly lecture notes of the class material here.
 
 **Week 1** [Summation](https://drive.google.com/file/d/19iJ3l224673lOiMviR_NZk_aLUUXLW73/view?usp=sharing)
 
+**Riemann Rearrangement**(https://drive.google.com/file/d/1AqgVzKGrZ_kLvlIVTbmwyHzLFe5z33yj/view?usp=sharing)
+
 **Week 2** [Completeness](https://drive.google.com/file/d/1BpkL0dXREW2XQFWLBxurFRGQB66wYMWL/view?usp=sharing)
 
 **Week 3** [Connected](https://drive.google.com/file/d/17hwPyZvA8rlW5MRwn8cR_ET-JHPd9Re-/view?usp=sharing)
