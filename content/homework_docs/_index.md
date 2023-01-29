@@ -12,7 +12,7 @@ I will post weekly homework here.
 
 **[Homework 2](https://drive.google.com/file/d/1EK6F5zfN29cuUIaXsK7qo6GNF_OYhCQe/view?usp=sharing) (Due 1/25)**
 
-**[Homework 3](https://drive.google.com/file/d/1ExMt1o2mPCSUzxaKX48VHidfT-xz2rrn/view?usp=share_link) (Due 2/1)**
+**[Homework 3](https://drive.google.com/file/d/1zEPbuZnspzdin7puIjbViwpLzfKB0lok/view?usp=sharing) (Due 2/1)**
 
 **[Homework 4](https://drive.google.com/file/d/1BVNmsQ2eIhQe-zcoEPJSJGDrFl-fO3K1/view?usp=sharing) (Due 2/8)**
 
