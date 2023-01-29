@@ -10,9 +10,9 @@ I will post weekly lecture notes of the class material here.
 
 **Week 2** [Completeness](https://drive.google.com/file/d/1BpkL0dXREW2XQFWLBxurFRGQB66wYMWL/view?usp=sharing)
 
-**Week 3** [Connected](https://drive.google.com/file/d/17hwPyZvA8rlW5MRwn8cR_ET-JHPd9Re-/view?usp=sharing)
+**Week 3** [Connected](https://drive.google.com/file/d/1uF3pNGg6VWye6Tlk8xSdRrRqeGgk5mik/view?usp=sharing)
 
-**Week 4** [Fixed Points](https://drive.google.com/file/d/1_guZA2EMwUjgu4U2sONEpj2CU3_ELXdz/view?usp=sharing)
+**Week 4** [Fixed Points](https://drive.google.com/file/d/1oe7b4UiAa_iRCZgbdf9532lrKfka6N5o/view?usp=sharing)
 
 **Week 5**
 
