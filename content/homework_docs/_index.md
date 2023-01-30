@@ -16,5 +16,6 @@ I will post weekly homework here.
 
 **[Homework 4](https://drive.google.com/file/d/1BVNmsQ2eIhQe-zcoEPJSJGDrFl-fO3K1/view?usp=sharing) (Due 2/8)**
 
+**[Presentation 2 Short List](https://drive.google.com/file/d/1CwyJW01aY9dwYVMcK2OgoyqtE-768RyL/view?usp=sharing)**
 
 
