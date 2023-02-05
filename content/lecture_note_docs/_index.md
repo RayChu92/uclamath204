@@ -4,6 +4,7 @@ type: "widget_page"
 
 I will post weekly lecture notes of the class material here.
 
+
 **Week 1** [Summation](https://drive.google.com/file/d/19iJ3l224673lOiMviR_NZk_aLUUXLW73/view?usp=sharing)
 
 **Quiz 1** [Rearrangement](https://drive.google.com/file/d/1AqgVzKGrZ_kLvlIVTbmwyHzLFe5z33yj/view?usp=sharing)
@@ -14,7 +15,7 @@ I will post weekly lecture notes of the class material here.
 
 **Week 4** [Fixed Points](https://drive.google.com/file/d/1oe7b4UiAa_iRCZgbdf9532lrKfka6N5o/view?usp=sharing)
 
-**Week 5**
+**Week 5** [Compactness](https://drive.google.com/file/d/1PaZMWfo5NOushJRsXtOSVCrAe47Q5Hz-/view?usp=sharing)
 
 **Week 6**
 
