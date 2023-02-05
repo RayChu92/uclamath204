@@ -2,7 +2,7 @@
 type: "widget_page"
 ---
 
-**Homeworks**
+## Homeworks
 
  **[Homework 1](https://drive.google.com/file/d/1JXQqUkvqvIp_9r32kGN3GYM8opteheIA/view?usp=share_link) (Due 1/18)**
 
@@ -14,14 +14,14 @@ type: "widget_page"
 
 **[Homework 5](https://drive.google.com/file/d/1S7CYo6Gz38c_jLXyP0zokIrN5KgoH8oZ/view?usp=sharing)(Due 2/15)**
 
-**Presentation Short List**
+## Presentation Short List
 
  **[Presentation 1 Short List](https://drive.google.com/file/d/1_84hfG53c9mTZTaDX4OpL0PeiXVXD6Hc/view?usp=sharing)**
 
 **[Presentation 2 Short List](https://drive.google.com/file/d/1kbroyYz6gAjWTmT_JH2OcsBOHpCyBCWx/view?usp=sharing)**
 
-**Extra Information on Homework Problems**
+## Extra Information on Homework Problems
 
-**[Homework 1 #6 Extension](https://drive.google.com/file/d/1PDsrKNrIzQjkR5rTUZnlI26strK2uFnl/view?usp=share_link)**
+**[Homework 1 #6](https://drive.google.com/file/d/1PDsrKNrIzQjkR5rTUZnlI26strK2uFnl/view?usp=share_link)**
 
 
