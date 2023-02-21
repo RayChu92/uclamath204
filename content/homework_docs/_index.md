@@ -22,6 +22,8 @@ type: "widget_page"
 
 **[Presentation 2 Short List](https://drive.google.com/file/d/1kbroyYz6gAjWTmT_JH2OcsBOHpCyBCWx/view?usp=sharing)**
 
+**[Presentation 3 Short List](https://drive.google.com/file/d/1bdYw6fQTNPGN02PpaatheGVCQwATnJ8a/view?usp=sharing)**
+
 ## Extra Information on Homework Problems
 
 **[Homework 1 #6](https://drive.google.com/file/d/1PDsrKNrIzQjkR5rTUZnlI26strK2uFnl/view?usp=share_link)**
