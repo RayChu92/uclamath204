@@ -22,7 +22,7 @@ type: "widget_page"
 
 **[Presentation 2 Short List](https://drive.google.com/file/d/1kbroyYz6gAjWTmT_JH2OcsBOHpCyBCWx/view?usp=sharing)**
 
-**[Presentation 3 Short List](https://drive.google.com/file/d/1UZMVNpdH3TN73FUhQZgdH_-TZRv1yNL0/view?usp=sharing)**
+**[Presentation 3 Short List](https://drive.google.com/file/d/1JAOkOeaUba9kcgQggqSItwBrVKQFZAim/view?usp=sharing)**
 
 ## Extra Information on Homework Problems
 
