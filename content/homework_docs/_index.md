@@ -16,6 +16,8 @@ type: "widget_page"
 
 **[Homework 6](https://drive.google.com/file/d/1SjcS-cClaDh-zqESNNT94QuWYI-lWY6P/view?usp=sharing)(Due 3/01)**
 
+**[Homework 7](https://drive.google.com/file/d/1Y7s7xzXbRTPC3_C4P5bzdkLWsMByzUfc/view?usp=sharing) (Due 3/08)**
+
 ## Presentation Short List
 
  **[Presentation 1 Short List](https://drive.google.com/file/d/1_84hfG53c9mTZTaDX4OpL0PeiXVXD6Hc/view?usp=sharing)**
