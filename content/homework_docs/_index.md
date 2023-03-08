@@ -20,6 +20,8 @@ type: "widget_page"
 
 **[Homework 8](https://drive.google.com/file/d/1w3J5rOnOcCpPVFwkfFse_oZyFto7xIM7/view?usp=sharing)(Do not turn in)**
 
+**[Review Sheet](https://drive.google.com/file/d/15SzOgFV53zm7pI9Gceh2PNz2F_Cq8yyz/view?usp=sharing)(Do not turn in)**
+
 ## Presentation Short List
 
  **[Presentation 1 Short List](https://drive.google.com/file/d/1_84hfG53c9mTZTaDX4OpL0PeiXVXD6Hc/view?usp=sharing)**
